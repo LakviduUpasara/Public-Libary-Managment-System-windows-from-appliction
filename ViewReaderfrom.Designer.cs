@@ -30,7 +30,6 @@
         {
             this.components = new System.ComponentModel.Container();
             this.DataGriedVewReaderDeatail = new System.Windows.Forms.DataGridView();
-           
             this.pUBLICLIBRARYMANAGMENTSYSTEMDataSetBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.ViewReaderbtn = new System.Windows.Forms.Button();
             this.EditReaderbtn = new System.Windows.Forms.Button();
@@ -42,7 +41,6 @@
             this.DeleteReaderbtn = new System.Windows.Forms.Button();
             this.Refeshbtn = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.DataGriedVewReaderDeatail)).BeginInit();
-            
             ((System.ComponentModel.ISupportInitialize)(this.pUBLICLIBRARYMANAGMENTSYSTEMDataSetBindingSource)).BeginInit();
             this.SuspendLayout();
             // 
@@ -58,14 +56,7 @@
             this.DataGriedVewReaderDeatail.RowTemplate.Height = 28;
             this.DataGriedVewReaderDeatail.Size = new System.Drawing.Size(1678, 667);
             this.DataGriedVewReaderDeatail.TabIndex = 0;
-            // 
-            // pUBLIC_LIBRARY_MANAGMENT_SYSTEMDataSet
-            // 
-
-            // 
-            // pUBLICLIBRARYMANAGMENTSYSTEMDataSetBindingSource
-            // 
-      
+            this.DataGriedVewReaderDeatail.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DataGriedVewReaderDeatail_CellContentClick);
             // 
             // ViewReaderbtn
             // 
@@ -180,7 +171,6 @@
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.ViewReaderfrom_Load);
             ((System.ComponentModel.ISupportInitialize)(this.DataGriedVewReaderDeatail)).EndInit();
-           
             ((System.ComponentModel.ISupportInitialize)(this.pUBLICLIBRARYMANAGMENTSYSTEMDataSetBindingSource)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

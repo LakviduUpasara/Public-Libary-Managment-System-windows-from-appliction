@@ -95,6 +95,11 @@ namespace Public_Libary_managment_System
         {
             loaddatatabale();
         }
+
+        private void DataGriedVewReaderDeatail_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
     
    

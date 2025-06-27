@@ -1,0 +1,18 @@
+D:\GITPROJECT\Public-Libary-Managment-System-windows-from-appliction\obj\Debug\Public Libary managment System.csproj.AssemblyReference.cache
+D:\GITPROJECT\Public-Libary-Managment-System-windows-from-appliction\obj\Debug\Public_Libary_managment_System.AuthorManagment.resources
+D:\GITPROJECT\Public-Libary-Managment-System-windows-from-appliction\obj\Debug\Public_Libary_managment_System.Attendence.resources
+D:\GITPROJECT\Public-Libary-Managment-System-windows-from-appliction\obj\Debug\Public_Libary_managment_System.BookManagement.resources
+D:\GITPROJECT\Public-Libary-Managment-System-windows-from-appliction\obj\Debug\Public_Libary_managment_System.CHENGE_PASSWORD.resources
+D:\GITPROJECT\Public-Libary-Managment-System-windows-from-appliction\obj\Debug\Public_Libary_managment_System.CreateUser.resources
+D:\GITPROJECT\Public-Libary-Managment-System-windows-from-appliction\obj\Debug\Public_Libary_managment_System.DashBord.resources
+D:\GITPROJECT\Public-Libary-Managment-System-windows-from-appliction\obj\Debug\Public_Libary_managment_System.DeleateReader.resources
+D:\GITPROJECT\Public-Libary-Managment-System-windows-from-appliction\obj\Debug\Public_Libary_managment_System.EditReadeFrom.resources
+D:\GITPROJECT\Public-Libary-Managment-System-windows-from-appliction\obj\Debug\Public_Libary_managment_System.ForgetPasswordf.resources
+D:\GITPROJECT\Public-Libary-Managment-System-windows-from-appliction\obj\Debug\Public_Libary_managment_System.fromLogin.resources
+D:\GITPROJECT\Public-Libary-Managment-System-windows-from-appliction\obj\Debug\Public_Libary_managment_System.IssueBookFrom.resources
+D:\GITPROJECT\Public-Libary-Managment-System-windows-from-appliction\obj\Debug\Public_Libary_managment_System.PublisherManagment.resources
+D:\GITPROJECT\Public-Libary-Managment-System-windows-from-appliction\obj\Debug\Public_Libary_managment_System.Reader_Managment.resources
+D:\GITPROJECT\Public-Libary-Managment-System-windows-from-appliction\obj\Debug\Public_Libary_managment_System.ReturnBook.resources
+D:\GITPROJECT\Public-Libary-Managment-System-windows-from-appliction\obj\Debug\Public_Libary_managment_System.User_Profile_Managment.resources
+D:\GITPROJECT\Public-Libary-Managment-System-windows-from-appliction\obj\Debug\Public_Libary_managment_System.ViewReaderfrom.resources
+D:\GITPROJECT\Public-Libary-Managment-System-windows-from-appliction\obj\Debug\Public Libary managment System.csproj.GenerateResource.cache
